@@ -59,7 +59,7 @@ def force_subscribe(func):
             is_sub = await is_subscribed(bot, message.from_user.id)
             if not is_sub:
                 keyboard = InlineKeyboardMarkup([
-                    [InlineKeyboardButton("🔔 Join Channel", url="https://t.me/roxybasicneedbot1")],
+                    [InlineKeyboardButton("🔔 Join Channel", url="https://t.me/NEET_QUIZ_HINDI_MEDIUM")],
                     [InlineKeyboardButton("🔄 Refresh", callback_data="refresh_sub")]
                 ])
                 await message.reply_text(
@@ -121,8 +121,8 @@ async def start(bot: Client, m: Message):
             InlineKeyboardButton("⚡ Upload Files", callback_data="upload_files")
         ],
         [
-            InlineKeyboardButton("🔔 Channel", url="https://t.me/roxybasicneedbot1"),
-            InlineKeyboardButton("👨‍💻 Developer", url="https://t.me/roxycontactbot")
+            InlineKeyboardButton("🔔 Channel", url="https://t.me/NEET_QUIZ_HINDI_MEDIUM"),
+            InlineKeyboardButton("👨‍💻 Developer", url="https://t.me/VK_0786BOT")
         ]
     ])
     
@@ -320,8 +320,8 @@ async def upload(bot: Client, m: Message):
                         )
 
 
-                cc = f'**📹 Video #{str(count).zfill(3)}**\n**📁 Title:** {name1}\n**📦 Batch:** {raw_text0}\n{MR}'
-                cc1 = f'**📄 Document #{str(count).zfill(3)}**\n**📁 Title:** {name1}\n**📦 Batch:** {raw_text0}\n{MR}'
+                cc = f'**📹 Video #{str(count).zfill(3)}**\n**📁 Title:** {name1}\n**📦 Batch:** {raw_text0}\n{VK}'
+                cc1 = f'**📄 Document #{str(count).zfill(3)}**\n**📁 Title:** {name1}\n**📦 Batch:** {raw_text0}\n{VK}'
                 
                 # Show download progress
                 prog = await m.reply_text(
