@@ -117,9 +117,9 @@ Your encouragement keeps us going! 🚀
 
 | Platform | Link |
 |----------|------|
-| 📺 **YouTube** | [𝕽𝕺𝕏𝕐•𝔹𝕒𝕤𝕚𝕔ℕ𝕖𝕖𝕕𝔹𝕠𝕥 ⚡️](https://youtube.com/@roxybasicneedbot) |
-| 💬 **Telegram Channel** | [𝕽𝕺𝕏𝕐•𝔹𝕒𝕤𝕚𝕔ℕ𝕖𝕖𝕕𝔹𝕠𝕥 ⚡️](https://t.me/roxybasicneedbot1) |
-| 👤 **Direct Contact** | [𝕽𝕺𝕏𝕐•𝔹𝕒𝕤𝕚𝕔ℕ𝕖𝕖𝕕𝔹𝕠𝕥 ⚡️](https://t.me/roxybasicneedbot1) |
+| 📺 **Telegram** | [•VK_0786BOT ⚡️](https://t.me/NEET_QUIZ_HINDI_MEDIUM_2026) |
+| 💬 **Telegram Channel** | [•𝔹𝕒𝕤𝕚𝕔ℕ𝕖𝕖𝕕𝔹𝕠𝕥 ⚡️](https://t.me/+ZQ1s-DwE2x5lYzRl) |
+| 👤 **Direct Contact** | [•Contact us⚡️](https://t.me/NEET_QUIZ_HINDI_MEDIUM) |
 
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
 
