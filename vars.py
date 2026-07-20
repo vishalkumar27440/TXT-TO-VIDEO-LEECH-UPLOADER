@@ -11,7 +11,7 @@ FORCE_SUB_CHANNEL = environ.get("FORCE_SUB_CHANNEL", "bot_subscription")  # Chan
 FORCE_SUB_CHANNEL_LINK = environ.get("FORCE_SUB_CHANNEL_LINK", "https://t.me/NEET_QUIZ_HINDI_MEDIUM")  # Channel link
 
 # Admin Configuration
-ADMINS = list(map(int, environ.get("ADMINS", "8032590813,7846814809").split()))
+ADMINS = list(map(int, environ.get("ADMINS", "8032590813").split()))
 
 # Optional: Bot Owner ID
 OWNER_ID = int(environ.get("OWNER_ID", "7578460365"))
